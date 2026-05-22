@@ -1,0 +1,543 @@
+
+  [
+  {
+    "id": 1,
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "category": "Finance",
+    "old_price": 600,
+    "currency": "BDT",
+    "rating": 4.6,
+    "stock": 18,
+    "description": "A personal finance book that teaches financial independence and investing. Kiyosaki contrasts the beliefs of his two 'dads'—his biological poor dad and his best friend's rich dad. The book argues that financial education is not taught in schools and that assets put money in your pocket while liabilities take money out. Through simple parables, it encourages readers to buy assets like real estate, stocks, and businesses rather than liabilities like luxury cars. It challenges traditional employment advice and promotes entrepreneurship, passive income, and understanding taxes and corporations. While criticized for some anecdotal claims, it remains a foundational text for modern personal finance enthusiasts seeking to break the 'rat race.'",
+    "image": "https://kindlebd.com/wp-content/uploads/2025/06/81bsw6fnUiL.jpg",
+    "tags": ["finance", "investment", "mindset"],
+    "discount": {
+      "isActive": true,
+      "percent": 15,
+      "finalPrice": 510
+    }
+  },
+  {
+    "id": 2,
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "category": "Finance",
+    "old_price": 550,
+    "currency": "BDT",
+    "rating": 4.8,
+    "stock": 22,
+    "description": "This book explores the strange ways people think about money and how emotions drive financial decisions more than logic. Housel argues that doing well with money has little to do with being smart and everything to do with behavior. He shares 19 short stories covering topics like luck, risk, greed, and compounding. Unlike typical finance books, it focuses on soft skills like humility, patience, and saving without a specific goal. The key takeaway is that financial success is not a hard science but a soft skill where how you behave matters more than what you know. It's an easy, insightful read for anyone feeling overwhelmed by complex investment strategies.",
+    "image": "https://collectibooks.com/wp-content/uploads/2025/03/The-psychology-of-money-%E2%80%93-Morgan-Housel.png",
+    "tags": ["psychology", "wealth", "behavioral finance"],
+    "discount": {
+      "isActive": false,
+      "percent": 0,
+      "finalPrice": 550
+    }
+  },
+  {
+    "id": 3,
+    "title": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "category": "Finance",
+    "old_price": 800,
+    "currency": "BDT",
+    "rating": 4.7,
+    "stock": 10,
+    "description": "Widely known as the bible of value investing, this classic was first published in 1949 and remains highly relevant. Graham teaches the concept of 'Mr. Market' and advocates for a defensive investment strategy focused on long-term safety and avoiding permanent loss of capital. He distinguishes between speculative trading and true investing. The book introduces 'margin of safety'—buying securities when their market price is significantly below their intrinsic value. Warren Buffett calls it the best book on investing ever written. It is dense with financial ratios and historical data but essential for serious investors. The updated edition includes modern commentary to help readers apply Graham's principles to today's volatile markets.",
+    "image": "https://i.harperapps.com/hcanz/covers/9780061745171/y648.jpg",
+    "tags": ["value investing", "classic", "strategy"],
+    "discount": {
+      "isActive": true,
+      "percent": 10,
+      "finalPrice": 720
+    }
+  },
+  {
+    "id": 4,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Self-Help",
+    "old_price": 500,
+    "currency": "BDT",
+    "rating": 4.9,
+    "stock": 35,
+    "description": "This practical guide focuses on how tiny, incremental changes in behavior can lead to remarkable results over time. Clear argues that goals are less important than systems and that your identity is tied to your habits. He presents the 'Four Laws of Behavior Change'—make it obvious, attractive, easy, and satisfying—to build good habits, and their inverses to break bad ones. The book is filled with actionable strategies, from the two-minute rule to habit stacking. Unlike motivational books that rely on willpower, Atomic Habits provides a framework based on environment design and small wins. It is highly praised for its clarity and scientific backing, making it a favorite among productivity enthusiasts.",
+    "image": "https://jamesclear.com/wp-content/uploads/2025/06/atomic-habits-dots.png",
+    "tags": ["habits", "productivity", "self-improvement"],
+    "discount": {
+      "isActive": true,
+      "percent": 20,
+      "finalPrice": 400
+    }
+  },
+  {
+    "id": 5,
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "category": "Productivity",
+    "old_price": 480,
+    "currency": "BDT",
+    "rating": 4.5,
+    "stock": 15,
+    "description": "In an age of constant distraction, Newport makes a case for 'deep work'—the ability to focus without distraction on a cognitively demanding task. He argues this skill is becoming rare and therefore more valuable than ever. The book provides four rules and rituals to cultivate deep work, such as scheduling distraction periods, embracing boredom, and quitting social media. Newport contrasts deep work with 'shallow work' (logistical-style tasks performed while distracted). He offers evidence from high performers in various fields. While some suggestions are extreme (e.g., quitting all social media), the core message resonates with anyone seeking to produce high-quality work and find professional satisfaction in a noisy world.",
+    "image": "https://cdn.othoba.com/images/thumbs/0938547_deep-work-paperback.jpeg",
+    "tags": ["focus", "productivity", "career"],
+    "discount": {
+      "isActive": false,
+      "percent": 0,
+      "finalPrice": 480
+    }
+  },
+  {
+    "id": 6,
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "category": "Psychology",
+    "old_price": 650,
+    "currency": "BDT",
+    "rating": 4.6,
+    "stock": 8,
+    "description": "Nobel laureate Kahneman summarizes decades of research on cognitive biases and decision-making. He introduces two systems: System 1 is fast, intuitive, and emotional; System 2 is slower, more deliberate, and logical. The book explores how System 1 often makes systematic errors (heuristics and biases) that System 2 fails to correct. Topics include anchoring, availability heuristic, loss aversion, and the framing effect. It is dense with psychological experiments that challenge the rational agent model of economics. While not a light read, it is immensely rewarding for anyone interested in why we make irrational choices in finance, relationships, and daily life. It fundamentally changes how you think about thinking.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/Thinking%2C_Fast_and_Slow.jpg",
+    "tags": ["psychology", "decision making", "behavioral economics"],
+    "discount": {
+      "isActive": true,
+      "percent": 5,
+      "finalPrice": 617.5
+    }
+  },
+  {
+    "id": 7,
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "category": "History",
+    "old_price": 700,
+    "currency": "BDT",
+    "rating": 4.8,
+    "stock": 12,
+    "description": "Harari’s sweeping narrative traces Homo sapiens from the Stone Age to the 21st century, focusing on how our species came to dominate Earth. He breaks history into four parts: the Cognitive Revolution (emergence of fictional language), the Agricultural Revolution (history's biggest fraud), the Unification of Humankind (money, empires, religion), and the Scientific Revolution. The book challenges conventional views, arguing that shared myths—like laws, nations, and corporations—enable large-scale human cooperation. It is controversial in parts but always thought-provoking. Sapiens is less about dry dates and more about big questions: Are we happier than our ancestors? What will the future look like post-humanism? A must-read for curious minds.",
+    "image": "https://m.media-amazon.com/images/I/61i4k7DWNFL._AC_UF1000,1000_QL80_.jpg",
+    "tags": ["history", "anthropology", "evolution"],
+    "discount": {
+      "isActive": false,
+      "percent": 0,
+      "finalPrice": 700
+    }
+  },
+  {
+    "id": 8,
+    "title": "Homo Deus",
+    "author": "Yuval Noah Harari",
+    "category": "Future Studies",
+    "old_price": 720,
+    "currency": "BDT",
+    "rating": 4.5,
+    "stock": 9,
+    "description": "In this sequel to Sapiens, Harari looks to the future, exploring how humanity might upgrade itself into gods. He argues that the old problems of famine, plague, and war are being replaced with new quests for immortality, happiness, and divinity. The book examines how liberalism, technology, and dataism may converge. Harari warns about the rise of 'useless class' as AI outperforms humans in cognitive tasks, and the potential for algorithmic authority to replace individual free will. Written with the same provocative style, Homo Deus is not science fiction but an extrapolation of current trends in biotech and computing. It forces readers to confront uncomfortable ethical and political questions about the future we are creating.",
+    "image": "https://www.ynharari.com/wp-content/uploads/2017/01/homo_deus.png",
+    "tags": ["futurism", "technology", "philosophy"],
+    "discount": {
+      "isActive": true,
+      "percent": 12,
+      "finalPrice": 633.6
+    }
+  },
+  {
+    "id": 9,
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "category": "Self-Help",
+    "old_price": 580,
+    "currency": "BDT",
+    "rating": 4.7,
+    "stock": 20,
+    "description": "A classic personal development book that moves beyond quick fixes and focuses on character ethics and principle-centered living. The seven habits are: Be Proactive, Begin with the End in Mind, Put First Things First, Think Win-Win, Seek First to Understand Then to Be Understood, Synergize, and Sharpen the Saw. Covey introduces the 'circle of influence' and 'emotional bank accounts.' Unlike many productivity books that focus on external techniques, Covey emphasizes internal paradigms and maturity from dependence to independence to interdependence. The language can feel dated, but the principles are timeless. It's particularly useful for leadership roles and long-term relationship building, not just personal efficiency.",
+    "image": "https://www.bookowlsbd.com/cdn/shop/files/226_401045e1-69b1-4ad9-b786-695bccdf81b0.png?v=1759396409",
+    "tags": ["leadership", "productivity", "character"],
+    "discount": {
+      "isActive": false,
+      "percent": 0,
+      "finalPrice": 580
+    }
+  },
+  {
+    "id": 10,
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "category": "Memoir",
+    "old_price": 750,
+    "currency": "BDT",
+    "rating": 4.9,
+    "stock": 14,
+    "description": "In this deeply personal memoir, former First Lady Michelle Obama shares her journey from the South Side of Chicago to the White House. She writes about her childhood, her struggles with self-doubt, her career as a lawyer and hospital executive, and her life with Barack Obama. The book is divided into three sections: Becoming Me, Becoming Us, and Becoming More. It offers an intimate look at the challenges of balancing family, ambition, and public service under constant media scrutiny. Unlike typical political memoirs, Becoming focuses on universal themes of race, class, motherhood, and finding one's voice. It is warm, honest, and inspiring, offering lessons in resilience and hope.",
+    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1528206996i/38746485.jpg",
+    "tags": ["memoir", "inspiration", "politics"],
+    "discount": {
+      "isActive": true,
+      "percent": 18,
+      "finalPrice": 615
+    }
+  },
+  {
+    "id": 11,
+    "title": "Educated",
+    "author": "Tara Westover",
+    "category": "Memoir",
+    "old_price": 620,
+    "currency": "BDT",
+    "rating": 4.8,
+    "stock": 11,
+    "description": "This memoir chronicles Westover’s journey from a radical, off-grid survivalist family in rural Idaho to earning a PhD from Cambridge University. She was raised without formal education, doctors, or government records, preparing for the End of Days. Her father’s paranoia and an abusive brother defined her childhood. After teaching herself enough math and grammar, she entered Brigham Young University at 17, having never attended a single class before. The book explores the painful process of leaving family and the clash between loyalty and self-determination. It is a powerful story about the transformative power of education, not just as career training, but as a way to see the world anew and claim your own life.",
+    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1774287363i/35133922.jpg",
+    "tags": ["memoir", "education", "family"],
+    "discount": {
+      "isActive": false,
+      "percent": 0,
+      "finalPrice": 620
+    }
+  },
+  {
+    "id": 12,
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "category": "Thriller",
+    "old_price": 450,
+    "currency": "BDT",
+    "rating": 4.4,
+    "stock": 25,
+    "description": "Alicia Berenson, a famous painter, shoots her husband five times in the face and then never speaks another word. The story is told by Theo Faber, a psychotherapist obsessed with uncovering why she went silent. The narrative alternates between Theo's present-day sessions with Alicia and her diary entries from before the murder. The book plays with unreliable narrators, Greek tragedy motifs, and psychological suspense. It builds slowly, dropping clues about a possible affair, a hidden house key, and a third party. The twist ending is one of the most talked-about in recent thrillers. For fans of Gillian Flynn and Paula Hawkins, this is a quick, dark, and deeply satisfying read.",
+    "image": "https://static-01.daraz.com.bd/p/87f572f11a88ca761a720b37e0ba7ec8.jpg",
+    "tags": ["mystery", "suspense", "psychology"],
+    "discount": {
+      "isActive": true,
+      "percent": 10,
+      "finalPrice": 405
+    }
+  },
+  {
+    "id": 13,
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "category": "Fiction",
+    "old_price": 550,
+    "currency": "BDT",
+    "rating": 4.7,
+    "stock": 17,
+    "description": "A genre-blending novel that is both a coming-of-age story and a murder mystery. It follows Kya Clark, the 'Marsh Girl,' who grows up isolated in the North Carolina marsh after her family abandons her. She learns survival skills from nature and becomes a talented naturalist. Two young men from town become entangled in her life, and when one of them is found dead, Kya becomes the prime suspect. The book is praised for its lush, lyrical descriptions of the marsh ecosystem and its sensitive portrayal of loneliness and prejudice. Owens, a zoologist, brings authenticity to the biology. It's a heartbreaking, beautiful story about abandonment, resilience, and the human need for connection.",
+    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1582135294i/36809135.jpg",
+    "tags": ["literary fiction", "nature", "mystery"],
+    "discount": {
+      "isActive": false,
+      "percent": 0,
+      "finalPrice": 550
+    }
+  },
+  {
+    "id": 14,
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "category": "Science Fiction",
+    "old_price": 680,
+    "currency": "BDT",
+    "rating": 4.9,
+    "stock": 19,
+    "description": "From the author of The Martian, this is a standalone sci-fi thriller. Ryland Grace wakes up alone on a spaceship with amnesia. He gradually remembers he is humanity's last hope to save Earth from an extinction-level event caused by a microbe eating the sun. To solve the problem, he must travel to another star system. The plot involves creative problem-solving, realistic physics, and a wonderful unexpected friendship with an alien spider-like creature named Rocky. Weir's strength is making engineering and science accessible and funny. The relationship between Grace and Rocky is heartwarming. It's an optimistic, high-stakes adventure about courage and collaboration, perfect for readers who love hard science fiction and puzzles.",
+    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1764703833i/54493401.jpg",
+    "tags": ["sci-fi", "space", "adventure"],
+    "discount": {
+      "isActive": true,
+      "percent": 15,
+      "finalPrice": 578
+    }
+  },
+  {
+    "id": 15,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "category": "Science Fiction",
+    "old_price": 600,
+    "currency": "BDT",
+    "rating": 4.8,
+    "stock": 13,
+    "description": "Set in a distant future, Dune follows young Paul Atreides as his noble family takes control of the desert planet Arrakis, the only source of the spice melange, the most valuable substance in the universe. The book is a complex tapestry of politics, religion, ecology, and messianic prophecy. Paul, trained in martial arts and mental disciplines, must navigate betrayal, survive the harsh desert, and ally with the native Fremen people. It is not just an adventure story; it's a meditation on power, colonialism, and environmentalism. Herbert avoids the good vs. evil trope, showing the dark side of hero worship. Dune is a landmark of world-building, influencing everything from Star Wars to Game of Thrones.",
+    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg",
+    "tags": ["epic", "space opera", "ecology"],
+    "discount": {
+      "isActive": false,
+      "percent": 0,
+      "finalPrice": 600
+    }
+  },
+  {
+    "id": 16,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "old_price": 450,
+    "currency": "BDT",
+    "rating": 4.8,
+    "stock": 28,
+    "description": "A beloved children's fantasy novel that introduced Middle-earth. Bilbo Baggins, a comfort-loving hobbit, is recruited by the wizard Gandalf and thirteen dwarves to reclaim their treasure from the dragon Smaug. The journey is episodic, filled with trolls, goblins, giant spiders, and the mysterious Gollum, from whom Bilbo finds a magic ring. Unlike the darker Lord of the Rings, The Hobbit is lighter, more whimsical, and full of songs and riddles. It explores themes of courage, growth, and leaving your comfort zone. Bilbo evolves from a passive homebody to a resourceful burglar. It's a perfect entry into fantasy for all ages, with a classic quest structure and a satisfying, treasure-filled conclusion.",
+    "image": "https://m.media-amazon.com/images/I/81uEDUfKBZL.jpg",
+    "tags": ["fantasy", "adventure", "classic"],
+    "discount": {
+      "isActive": true,
+      "percent": 12,
+      "finalPrice": 396
+    }
+  },
+  {
+    "id": 17,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "old_price": 400,
+    "currency": "BDT",
+    "rating": 4.9,
+    "stock": 40,
+    "description": "The first book in the global phenomenon series. Harry Potter, a neglected orphan living under the stairs, discovers on his 11th birthday that he is a wizard and has been accepted to Hogwarts School of Witchcraft and Wizardry. He learns about his famous past (surviving the killing curse of Lord Voldemort) and makes friends Ron and Hermione. The plot involves a mysterious three-headed dog and a forbidden third-floor corridor guarding the legendary Sorcerer's Stone. The book excels at introducing a magical world that feels real (Diagon Alley, Quidditch, sorting hat) while dealing with universal themes of friendship, courage, and prejudice. It is charming, funny, and emotionally resonant for children and adults alike.",
+    "image": "https://www.pottermorepublishing.com/wp-content/covers/web/9781781100486.jpg",
+    "tags": ["magic", "school", "friendship"],
+    "discount": {
+      "isActive": false,
+      "percent": 0,
+      "finalPrice": 400
+    }
+  },
+  {
+    "id": 18,
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "Dystopian",
+    "old_price": 380,
+    "currency": "BDT",
+    "rating": 4.7,
+    "stock": 22,
+    "description": "A chilling dystopian novel set in Airstrip One (formerly Great Britain) under totalitarian rule by the Party and its leader Big Brother. Winston Smith works at the Ministry of Truth rewriting historical records to match the Party's current lies. He begins a forbidden love affair with Julia and tries to rebel by joining an underground group. The novel introduces concepts like Newspeak (language to control thought), Thought Police, doublethink, and the infamous Room 101. It explores how power can be maintained through surveillance, propaganda, and torture—not of the body, but of the mind and loyalty. 'Big Brother is watching you' and '2+2=5' have become cultural shorthand. It is a terrifying warning against totalitarianism and a loss of objective truth.",
+    "image":  "https://static-01.daraz.com.bd/p/83cb389fea6e3d5df2f85d9bee2949fc.jpg",
+    "tags": ["classic", "political fiction", "surveillance"],
+    "discount": {
+      "isActive": true,
+      "percent": 20,
+      "finalPrice": 304
+    }
+  },
+  {
+    "id": 19,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "category": "Classic",
+    "old_price": 420,
+    "currency": "BDT",
+    "rating": 4.9,
+    "stock": 16,
+    "description": "This Pulitzer Prize-winning novel is told from the perspective of young Scout Finch in the fictional town of Maycomb, Alabama, during the Great Depression. Her father, Atticus Finch, a lawyer, defends Tom Robinson, a black man falsely accused of raping a white woman. Through Scout's innocent eyes, we see the hypocrisy, racism, and moral complexity of the town. Parallel to the trial is the children's obsession with their reclusive neighbor, Boo Radley. The book is a powerful exploration of empathy—Atticus's famous advice is to 'climb into someone's skin and walk around in it.' It addresses rape, inequality, and courage in the face of mob mentality. A timeless story about integrity and doing the right thing even when you lose.",
+    "image": "https://www.bookowlsbd.com/cdn/shop/files/images-_54.jpg?v=1712229255",
+    "tags": ["classic", "race", "coming of age"],
+    "discount": {
+      "isActive": false,
+      "percent": 0,
+      "finalPrice": 420
+    }
+  },
+  {
+    "id": 20,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Classic",
+    "old_price": 350,
+    "currency": "BDT",
+    "rating": 4.4,
+    "stock": 20,
+    "description": "Set in the summer of 1922 on Long Island, this novel critiques the American Dream during the Jazz Age. Nick Carraway, a bond salesman, rents a house next to the mysterious millionaire Jay Gatsby, who throws lavish parties every weekend. It turns out Gatsby is obsessed with Nick's cousin, Daisy Buchanan, and his entire fortune is a desperate attempt to win her back from her brutish husband Tom. The novel explores themes of social class, wealth, obsession, and the impossibility of recapturing the past. Fitzgerald's prose is lyrical and elegant, painting a portrait of glittering excess that masks emptiness and tragedy. The green light, the eyes of Dr. T.J. Eckleburg, and the final line ('So we beat on, boats against the current') are iconic.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg",
+    "tags": ["classic", "tragedy", "1920s"],
+    "discount": {
+      "isActive": true,
+      "percent": 8,
+      "finalPrice": 322
+    }
+  },
+  {
+    "id": 21,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "category": "Classic",
+    "old_price": 370,
+    "currency": "BDT",
+    "rating": 4.3,
+    "stock": 14,
+    "description": "Narrated by the iconic teenage rebel Holden Caulfield from a mental institution, this novel follows his two days in New York City after being expelled from prep school. Holden is alienated and cynical, criticizing 'phonies' everywhere—in movies, schools, and relationships. He struggles with the death of his brother Allie and the adult world of sex, loss, and compromise. Despite his tough talk, he is vulnerable and kind, trying to protect childhood innocence (symbolized by a catcher in the rye). The book has been both banned for its language and themes and revered as a masterpiece of voice and adolescence. It captures the pain of growing up, loneliness, and the search for authenticity with raw, unforgettable honesty.",
+    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107.jpg",
+    "tags": ["classic", "coming of age", "alienation"],
+    "discount": {
+      "isActive": false,
+      "percent": 0,
+      "finalPrice": 370
+    }
+  },
+  {
+    "id": 22,
+    "title": "Becoming Supernatural",
+    "author": "Dr. Joe Dispenza",
+    "category": "Spirituality",
+    "old_price": 520,
+    "currency": "BDT",
+    "rating": 4.6,
+    "stock": 9,
+    "description": "Dispenza combines neuroscience, epigenetics, and quantum physics to explain how to rewire your brain and body for higher states of health and consciousness. He argues that by changing our thoughts and emotional states, we can transform our biology beyond what is considered normal. The book includes real-life case studies of people healing from chronic illness and trauma through meditation and intention. Dispenza provides guided meditations and practical exercises to break the habit of being yourself and enter a state of 'being supernatural.' It is controversial in scientific circles but popular in self-transformation communities. The writing is accessible but dense with metaphysical concepts, best for readers open to mind-body healing and tapping into the quantum field.",
+    "image": "https://bookbinbd.com/wp-content/uploads/2024/09/813RHV5Qw-L._SL1500_.jpg",
+    "tags": ["meditation", "neuroscience", "healing"],
+    "discount": {
+      "isActive": true,
+      "percent": 10,
+      "finalPrice": 468
+    }
+  },
+  {
+    "id": 23,
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "category": "Spirituality",
+    "old_price": 480,
+    "currency": "BDT",
+    "rating": 4.7,
+    "stock": 18,
+    "description": "A guide to spiritual enlightenment through living in the present moment. Tolle argues that most human suffering—anxiety, regret, anger—comes from excessive identification with the mind (ego) and dwelling in past or future. The 'pain-body' is an accumulation of old emotional pain that feeds on negativity. The solution is to become a 'watcher' of your thoughts, recognizing that you are not your mind. Tolle offers simple practices like focusing on your breath or inner body to bring awareness to the Now. The book is written as a Q&A in simple language, though concepts are abstract. It has influenced millions seeking relief from chronic stress and unhappiness. It's not a religion but a practical philosophy for inner peace, accessible to both spiritual seekers and skeptics.",
+    "image": "https://newworldlibrary.com/wp-content/uploads/2023/11/New-Power-of-Now86.jpg",
+    "tags": ["mindfulness", "enlightenment", "consciousness"],
+    "discount": {
+      "isActive": false,
+      "percent": 0,
+      "finalPrice": 480
+    }
+  },
+  {
+    "id": 24,
+    "title": "The Body Keeps the Score",
+    "author": "Bessel van der Kolk",
+    "category": "Psychology",
+    "old_price": 640,
+    "currency": "BDT",
+    "rating": 4.8,
+    "stock": 7,
+    "description": "A groundbreaking book on trauma, its effects on brain and body, and innovative treatments. Van der Kolk, a leading trauma researcher, explains how traumatic stress changes brain structures (like the amygdala and hippocampus) and can cause physical illness. He argues that trauma is not just a mental issue but a physiological one where the body 'keeps the score' long after the event is over. The book critiques traditional talk therapy for trauma, advocating for body-based approaches like EMDR, yoga, neurofeedback, and theater. It includes harrowing case studies of veterans, abuse survivors, and accident victims. While dense with neuroscience, it is compassionate and hopeful, offering a path to re-owning one's body and brain. Essential for therapists, survivors, and anyone interested in mental health.",
+    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1594559067i/18693771.jpg",
+    "tags": ["trauma", "neuroscience", "therapy"],
+    "discount": {
+      "isActive": true,
+      "percent": 15,
+      "finalPrice": 544
+    }
+  },
+  {
+    "id": 25,
+    "title": "Good to Great",
+    "author": "Jim Collins",
+    "category": "Business",
+    "old_price": 680,
+    "currency": "BDT",
+    "rating": 4.5,
+    "stock": 10,
+    "description": "A rigorous research study on why some companies make the leap from good to great and others don't. Collins's team analyzed 1,435 companies over 40 years, identifying 11 that sustained 15-year growth. Key findings include: 'Level 5 Leadership' (a mix of humility and fierce resolve), 'First Who, Then What' (get the right people on the bus), 'The Hedgehog Concept' (simplicity within three circles), and a 'Culture of Discipline.' The book dismisses the myth that charismatic leadership or technology causes greatness. It's written in an engaging, story-driven style with memorable metaphors (the flywheel, the doom loop). While some case companies later faltered, the principles remain influential in corporate strategy and management. A must-read for leaders and entrepreneurs aiming for sustainable excellence.",
+    "image": "https://example.com/images/good_to_great.jpg",
+    "tags": ["business", "leadership", "strategy"],
+    "discount": {
+      "isActive": false,
+      "percent": 0,
+      "finalPrice": 680
+    }
+  },
+  {
+    "id": 26,
+    "title": "Start with Why",
+    "author": "Simon Sinek",
+    "category": "Business",
+    "old_price": 500,
+    "currency": "BDT",
+    "rating": 4.4,
+    "stock": 21,
+    "description": "Sinek presents a simple but powerful model for inspirational leadership based on the 'Golden Circle': Why, How, What. Most organizations know what they do, some know how they do it, but few know why they do it (their purpose or belief). Great leaders like Martin Luther King Jr. and companies like Apple start with Why, which taps into the limbic brain (emotion, trust, loyalty) rather than the neocortex (rational analysis). The book argues that people don't buy what you do; they buy why you do it. It is less a how-to manual and more a conceptual framework with compelling anecdotes. The writing can be repetitive, but the core message has influenced marketing, recruitment, and organizational culture. Ideal for anyone looking to lead with purpose, not just profits.",
+    "image": "https://gregory.ph/cdn/shop/products/BuyStartwithWhyinthephilippines.jpg?v=1626535833",
+    "tags": ["leadership", "marketing", "purpose"],
+    "discount": {
+      "isActive": true,
+      "percent": 12,
+      "finalPrice": 440
+    }
+  },
+  {
+    "id": 27,
+    "title": "The 4-Hour Workweek",
+    "author": "Timothy Ferriss",
+    "category": "Lifestyle",
+    "old_price": 540,
+    "currency": "BDT",
+    "rating": 4.2,
+    "stock": 15,
+    "description": "A controversial but influential guide to escaping the 9-5 grind and designing a 'lifestyle' of mobility and freedom. Ferriss shares his own experiments with outsourcing life, automating income, and geo-arbitrage (earning in dollars, living in cheaper countries). Key concepts include the 80/20 principle (focus on 20% of efforts that yield 80% of results), eliminating information overload, and mini-retirements (taking several long breaks throughout life rather than waiting for old age). He provides templates for getting bosses to allow remote work, automating customer service, and eliminating useless tasks. Critics say it works best for digital nomads and is less applicable to regular employees. Nevertheless, it sparked the lifestyle business movement and is a thought-provoking read for anyone feeling trapped in a traditional career.",
+    "image": "https://bookbinbd.com/wp-content/uploads/2025/10/71vO9Tbf4-L._SL1500_.jpg",
+    "tags": ["productivity", "entrepreneurship", "travel"],
+    "discount": {
+      "isActive": false,
+      "percent": 0,
+      "finalPrice": 540
+    }
+  },
+  {
+    "id": 28,
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "category": "Self-Help",
+    "old_price": 460,
+    "currency": "BDT",
+    "rating": 4.5,
+    "stock": 30,
+    "description": "A counter-intuitive self-help book that argues the key to a good life is not constant positivity but learning to care about fewer, better things—and accepting pain and failure as inevitable. Manson uses crude language, pop culture, and personal stories to debunk the 'happiness industry.' He argues that we should choose our struggles wisely: what you are willing to struggle for determines your values. Key chapters include 'Don't Try' (on reverse psychology), 'You Are Not Special' (on entitlement), and 'The Feedback Loop from Hell' (on anxiety about anxiety). The book encourages readers to set boundaries, take responsibility for their problems, and prioritize values based on reality (like honesty and responsibility) over fleeting pleasure. It's refreshingly blunt and funny, aimed at millennials tired of toxic positivity.",
+    "image": "https://www.crossword.in/cdn/shop/files/the-subtle-art-of-not-giving-a-f-ck-gift-edition-a-counterintuitive-approach-to-living-a-good-life-hardcover-mark-manson-bk0432871-40487008567513.jpg?v=1775117517",
+    "tags": ["philosophy", "resilience", "motivation"],
+    "discount": {
+      "isActive": true,
+      "percent": 20,
+      "finalPrice": 368
+    }
+  },
+  {
+    "id": 29,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Fiction",
+    "old_price": 400,
+    "currency": "BDT",
+    "rating": 4.7,
+    "stock": 25,
+    "description": "An international bestseller about following your dreams. Santiago, a young Andalusian shepherd, has a recurring dream of treasure near the Egyptian pyramids. He sells his flock and embarks on a journey across the Sahara, meeting a Gypsy woman, a king, a crystal merchant, and an alchemist along the way. The book is a simple allegory about listening to your heart, reading omens, and pursuing your 'Personal Legend.' It draws on themes from philosophy, religion, and mysticism. Coelho's prose is sparse and fable-like, which some find profound and others simplistic. The central lesson is that the treasure you seek is often where you started, but the journey is necessary to recognize it. It's a spiritual novel about courage, destiny, and the language of the universe, beloved by millions.",
+    "image": "https://bookbinbd.com/wp-content/uploads/2024/04/81FPzmB5fgL._SL1500_.jpg",
+    "tags": ["allegory", "adventure", "destiny"],
+    "discount": {
+      "isActive": false,
+      "percent": 0,
+      "finalPrice": 400
+    }
+  },
+  {
+    "id": 30,
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "category": "Fantasy",
+    "old_price": 580,
+    "currency": "BDT",
+    "rating": 4.6,
+    "stock": 12,
+    "description": "Le Cirque des Rêves appears without warning, open only from sunset to sunrise. Inside, black-and-white tents offer magical experiences. Unbeknownst to the performers, the circus is the stage for a duel between two young illusionists, Celia and Marco, who have been trained since childhood for a competition they don't fully understand. They fall in love, but the game requires only one survivor. The novel is non-linear and lushly descriptive, prioritizing atmosphere over plot. Morgenstern creates a rich sensory experience: caramel popcorn, clockwork machines, a wishing tree, and a tent full of clouds. It's a romance, a fantasy, and a tragedy wrapped in a love letter to the Victorian era. Fans of magical realism and intricate world-building will adore it.",
+    "image": "https://cdn2.penguin.com.au/covers/original/9780099554790.jpg",
+    "tags": ["magic", "romance", "atmospheric"],
+    "discount": {
+      "isActive": true,
+      "percent": 10,
+      "finalPrice": 522
+    }
+  }
+]

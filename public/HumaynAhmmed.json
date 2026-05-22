@@ -1,0 +1,827 @@
+{
+  "author": {
+    "id": "humayun_ahmed",
+    "name": "হুমায়ূন আহমেদ",
+    "nameEnglish": "Humayun Ahmed",
+    "birthDate": "১৩ নভেম্বর ১৯৪৮",
+    "birthPlace": "মোহনগঞ্জ, নেত্রকোণা, বাংলাদেশ",
+    "deathDate": "১৯ জুলাই ২০১২",
+    "deathPlace": "নিউ ইয়র্ক, যুক্তরাষ্ট্র",
+    "education": "ঢাকা বিশ্ববিদ্যালয় (রসায়নে স্নাতক ও স্নাতকোত্তর), উত্তর ডাকোটা স্টেট ইউনিভার্সিটি (পিএইচডি, পলিমার কেমিস্ট্রি)",
+    "occupation": "সাহিত্যিক, নাট্যকার, চলচ্চিত্র পরিচালক, অধ্যাপক",
+    "awards": [
+      "বাংলা একাডেমি সাহিত্য পুরস্কার (১৯৮১)",
+      "একুশে পদক (১৯৯৪)",
+      "জাতীয় চলচ্চিত্র পুরস্কার (১৯৯৩, আগুনের পরশমণি)",
+      "মেরিল-প্রথম আলো আজীবন সম্মাননা (২০১২)"
+    ],
+    "biography": "হুমায়ূন আহমেদ বাংলাদেশের সর্বাধিক জনপ্রিয় ও বহুমুখী প্রতিভার অধিকারী সাহিত্যিক। তিনি উপন্যাস, ছোটগল্প, নাটক, চলচ্চিত্র ও বৈজ্ঞানিক কল্পকাহিনি সব শাখাতেই সমান সফল। তাঁর সরল, সাবলীল ও ব্যঙ্গাত্মক রচনাশৈলী বাংলা সাহিত্যে এক নতুন ধারা সৃষ্টি করে। 'হিমু' ও 'মিসির আলি' চরিত্র দুটি তাকে অমর করে রেখেছে। তিনি ঢাকা বিশ্ববিদ্যালয়ের রসায়ন বিভাগের অধ্যাপক ছিলেন এবং পরবর্তীতে পূর্ণকালীন লেখালেখিতে মনোনিবেশ করেন। তাঁর লেখা ও পরিচালিত টিভি নাটক ও সিনেমাও ব্যাপক জনপ্রিয়তা পেয়েছে। ২০১২ সালে যুক্তরাষ্ট্রে চিকিৎসাধীন অবস্থায় তিনি মৃত্যুবরণ করেন। তাঁর অকালপ্রয়াণ বাংলা সাহিত্যের এক অপূরণীয় ক্ষতি।"
+  },
+  "books": [
+    {
+      "specification": {
+        "title": "দেবী",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684034",
+        "edition": "১ম প্রকাশ ১৯৮৪, ১৫তম মুদ্রণ ২০২১",
+        "numberOfPages": 144,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "মিসির আলি সিরিজের প্রথম বই। মনোবিজ্ঞানের অধ্যাপক মিসির আলি এক রহস্যময় নারীর মুখোমুখি হন, যিনি নিজেকে দেবী দাবি করেন। বাস্তব ও অবাস্তবের সন্ধিস্থলে দাঁড়িয়ে রহস্য ও থ্রিলারের অনন্য স্বাদ তৈরি করে।"
+      },
+      "salesInfo": {
+        "image": "https://bengaliebook.com/wp-content/uploads/2022/02/%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A7%80-724x1024.jpg",
+        "title": "দেবী",
+        "oldPrice": 300,
+        "newPrice": 270,
+        "currency": "BDT",
+        "rating": 4.8,
+        "stock": 28,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "নন্দিত নরকে",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684018",
+        "edition": "১ম প্রকাশ ১৯৭২, ২০তম মুদ্রণ ২০২২",
+        "numberOfPages": 112,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "মুক্তিযুদ্ধের পটভূমিতে রচিত একটি কালজয়ী উপন্যাস। যুদ্ধের সময় এক পাকিস্তানি কর্মকর্তার সাথে এক বাঙালি নারীর সম্পর্ক এবং তার পরবর্তী ফলাফল নিয়ে গল্পটি এগিয়ে যায়। মানবিক জটিলতা ও দেশপ্রেমের অসাধারণ শিল্পরূপ।"
+      },
+      "salesInfo": {
+        "image": "https://baatighar.com/web/image/product.template/56089/image_1024?unique=76c4cf4",
+        "title": "নন্দিত নরকে",
+        "oldPrice": 250,
+        "newPrice": 225,
+        "currency": "BDT",
+        "rating": 4.7,
+        "stock": 35,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "শঙ্খনীল কারাগার",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684026",
+        "edition": "১ম প্রকাশ ১৯৭৩, ২৫তম মুদ্রণ ২০২৩",
+        "numberOfPages": 128,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "একটি মানসিক রোগে আক্রান্ত ব্যক্তির গল্প। যে নিজের ভেতর এক অদ্ভুত কারাগার তৈরি করে ফেলে। হুমায়ূন আহমেদের সবচেয়ে জনপ্রিয় ও সাহিত্যমানসম্মত উপন্যাসগুলোর একটি।"
+      },
+      "salesInfo": {
+        "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1685425752i/147606434.jpg",
+        "title": "শঙ্খনীল কারাগার",
+        "oldPrice": 280,
+        "newPrice": 252,
+        "currency": "BDT",
+        "rating": 4.9,
+        "stock": 42,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "ময়ূরাক্ষী",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684042",
+        "edition": "১ম প্রকাশ ১৯৯০, ১৮তম মুদ্রণ ২০২২",
+        "numberOfPages": 96,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "হিমু সিরিজের প্রথম বই। হিমালয় থেকে আগত এক অদ্ভুত যুবক হিমু। তার পাগলামি, সরলতা আর ভিন্ন চিন্তাধারা ঢাকার সাধারণ মানুষের জীবনে নিয়ে আসে নানান ঘটনা।"
+      },
+      "salesInfo": {
+        "image": "https://bengaliebook.com/wp-content/uploads/2022/02/%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A7%82%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%80-768x1086.jpg",
+        "title": "ময়ূরাক্ষী",
+        "oldPrice": 220,
+        "newPrice": 198,
+        "currency": "BDT",
+        "rating": 4.6,
+        "stock": 50,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "কোথাও কেউ নেই",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684050",
+        "edition": "১ম প্রকাশ ১৯৮৮, ১৬তম মুদ্রণ ২০২১",
+        "numberOfPages": 104,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "নিঃসঙ্গতা আর হারানোর গল্প। উপন্যাসটি এক অদ্ভুত বিষাদময় পরিবেশ সৃষ্টি করে। যেখানে চারপাশে সবাই আছে, তবুও যেন কেউ নেই—এই উপলব্ধি বড় করে তোলে।"
+      },
+      "salesInfo": {
+        "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1346479035i/15961145.jpg",
+        "title": "কোথাও কেউ নেই",
+        "oldPrice": 240,
+        "newPrice": 216,
+        "currency": "BDT",
+        "rating": 4.7,
+        "stock": 30,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "এইসব দিনরাত্রি",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684069",
+        "edition": "১ম প্রকাশ ১৯৮৫, ২০তম মুদ্রণ ২০২৩",
+        "numberOfPages": 160,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "বহু চরিত্রের সমাগমে গড়া একান্নবর্তী পরিবারের গল্প। পটভূমি কুমিল্লার এক জমিদার বাড়ি। আত্মীয়তা, দ্বন্দ্ব, ভালোবাসা আর হাসির অসাধারণ মিশেল।"
+      },
+      "salesInfo": {
+        "image": "https://www.haritbooks.com/wp-content/uploads/2020/07/eaisab_dinrati_humayun_ahmed.jpg",
+        "title": "এইসব দিনরাত্রি",
+        "oldPrice": 320,
+        "newPrice": 288,
+        "currency": "BDT",
+        "rating": 4.8,
+        "stock": 22,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "বাদশাহ নামদার",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684077",
+        "edition": "১ম প্রকাশ ১৯৭৯, ১২তম মুদ্রণ ২০২০",
+        "numberOfPages": 136,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "বাংলাদেশের ইতিহাসের এক গুরুত্বপূর্ণ সময় নিয়ে রচিত। তেভাগা আন্দোলন ও জমিদার প্রথার পটভূমিতে গড়া এক শক্তিশালী উপন্যাস।"
+      },
+      "salesInfo": {
+        "image": "https://assets.roar.media/assets/bSeGgLCkVQR1Kx82_Badshah-Namdar.jpg",
+        "title": "বাদশাহ নামদার",
+        "oldPrice": 290,
+        "newPrice": 261,
+        "currency": "BDT",
+        "rating": 4.9,
+        "stock": 18,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "আগুনের পরশমণি",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684085",
+        "edition": "১ম প্রকাশ ১৯৯৪, ২২তম মুদ্রণ ২০২৩",
+        "numberOfPages": 120,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "মুক্তিযুদ্ধের আরেক অমর কাহিনি। যুদ্ধে হারিয়ে যাওয়া এক নারীর সন্ধান আর দেশ মাতৃকার জন্য আত্মদানের গল্প। টিভি নাটক ও সিনেমা হিসেবে ব্যাপক জনপ্রিয়।"
+      },
+      "salesInfo": {
+        "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1646883004i/17414621.jpg",
+        "title": "আগুনের পরশমণি",
+        "oldPrice": 260,
+        "newPrice": 234,
+        "currency": "BDT",
+        "rating": 4.8,
+        "stock": 45,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "অপেক্ষা",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684093",
+        "edition": "১ম প্রকাশ ১৯৭০, ১৮তম মুদ্রণ ২০২২",
+        "numberOfPages": 88,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "প্রথম প্রকাশ ১৯৭০ সালে। অপেক্ষার নামান্তর এই উপন্যাসটি প্রেম, বিরহ ও আকাঙ্ক্ষার কাহিনি। হুমায়ূন আহমেদের প্রথম দিককার সেরা রচনাগুলোর একটি।"
+      },
+      "salesInfo": {
+        "image": "https://upload.wikimedia.org/wikipedia/bn/2/2c/%E0%A6%85%E0%A6%AA%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE_%28%E0%A6%89%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%29.jpg",
+        "title": "অপেক্ষা",
+        "oldPrice": 200,
+        "newPrice": 180,
+        "currency": "BDT",
+        "rating": 4.6,
+        "stock": 38,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "মেঘ বলেছে যাব যাব",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684107",
+        "edition": "১ম প্রকাশ ১৯৭৮, ১৪তম মুদ্রণ ২০২১",
+        "numberOfPages": 112,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "গ্রামবাংলার পটভূমিতে নির্মিত হৃদয়স্পর্শী কাহিনি। নায়কের গ্রামে ফিরে আসা, স্মৃতি আর বর্তমানের দ্বান্দ্বিকতা। ভাষার সাবলীলতা ও বর্ণনার জন্য বিখ্যাত।"
+      },
+      "salesInfo": {
+        "image": "https://upload.wikimedia.org/wikipedia/bn/3/3f/%E0%A6%AE%E0%A7%87%E0%A6%98_%E0%A6%AC%E0%A6%B2%E0%A7%87%E0%A6%9B%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%AC_%E0%A6%AF%E0%A6%BE%E0%A6%AC_%E0%A6%89%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%A6.jpeg",
+        "title": "মেঘ বলেছে যাব যাব",
+        "oldPrice": 250,
+        "newPrice": 225,
+        "currency": "BDT",
+        "rating": 4.7,
+        "stock": 27,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "কিছু শৈশব",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684166",
+        "edition": "৬ষ্ঠ মুদ্রণ, ২০২১",
+        "numberOfPages": 96,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "হুমায়ূন আহমেদের শৈশবের স্মৃতিচারণা। ছোটবেলার নানা কথা, গ্রামের জীবন, স্কুলের দিন, পরিবার ও আত্মীয়স্বজনের গল্প। নস্টালজিয়ায় ভরা এক হৃদয়গ্রাহী আখ্যান।"
+      },
+      "salesInfo": {
+        "image": "https://upload.wikimedia.org/wikipedia/bn/1/17/%E0%A6%95%E0%A6%BF%E0%A6%9B%E0%A7%81_%E0%A6%B6%E0%A7%88%E0%A6%B6%E0%A6%AC.jpg",
+        "title": "কিছু শৈশব",
+        "oldPrice": 200,
+        "newPrice": 200,
+        "currency": "BDT",
+        "rating": 4.5,
+        "stock": 25,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "হিমু",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684115",
+        "edition": "১ম প্রকাশ ১৯৯১, ২১তম মুদ্রণ ২০২৩",
+        "numberOfPages": 108,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "হিমু চরিত্রের উত্থানের গল্প। কীভাবে এক সাধারণ মানুষ হয়ে ওঠে 'হিমু'? তার জীবনের নানান রঙিন ও অদ্ভুত ঘটনার সমাহার।"
+      },
+      "salesInfo": {
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/97/Himu-Humayun_Ahmed_%281993%29.jpg",
+        "title": "হিমু",
+        "oldPrice": 230,
+        "newPrice": 207,
+        "currency": "BDT",
+        "rating": 4.6,
+        "stock": 55,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "দারুচিনি দ্বীপ",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684123",
+        "edition": "১ম প্রকাশ ১৯৮৯, ১৭তম মুদ্রণ ২০২২",
+        "numberOfPages": 100,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "শুভ্র ও তার বন্ধুদের রোমাঞ্চকর অভিযান। তারা একটি গুপ্তধনের সন্ধানে পাড়ি জমায় রহস্যময় এক দ্বীপে। কৈশোর ও যৌবনের মধুর বর্ণনা এবং দুঃসাহসিকতার গল্প।"
+      },
+      "salesInfo": {
+        "image": "https://robi.boighor.com.bd/_next/image?url=https%3A%2F%2Fd25swln94uq8y4.cloudfront.net%2Fmedia%2Fbook_th%2F6206B3AD.jpg&w=750&q=100",
+        "title": "দারুচিনি দ্বীপ",
+        "oldPrice": 220,
+        "newPrice": 198,
+        "currency": "BDT",
+        "rating": 4.5,
+        "stock": 40,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "মিসির আলির অমীমাংসিত রহস্য",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684131",
+        "edition": "১ম প্রকাশ ২০০২, ১০তম মুদ্রণ ২০২০",
+        "numberOfPages": 132,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "মিসির আলি এমন সব কেস নিয়ে কাজ করেন যার কোনো সমাধান নেই—তবুও তিনি চেষ্টা চালিয়ে যান। অমীমাংসিত কিছু ঘটনার মনস্তাত্ত্বিক বিশ্লেষণ।"
+      },
+      "salesInfo": {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwoTHNJbQ2S_RFTho0WjNEHr8k-K_WWArVqg&s",
+        "title": "মিসির আলির অমীমাংসিত রহস্য",
+        "oldPrice": 280,
+        "newPrice": 252,
+        "currency": "BDT",
+        "rating": 4.7,
+        "stock": 20,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "বহুব্রীহি",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "984868414X",
+        "edition": "১ম প্রকাশ ১৯৮৬, ১১তম মুদ্রণ ২০২১",
+        "numberOfPages": 118,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "একটি গোয়েন্দা কাহিনি। সাংবাদিক বকুল ও তার বন্ধুদের হাত ধরে উন্মোচিত হয় একের পর এক হত্যারহস্য। টিভি নাটক হিসেবেও অসম্ভব জনপ্রিয় ছিল।"
+      },
+      "salesInfo": {
+        "image": "https://www.haritbooks.com/wp-content/uploads/2020/07/bahubirhu_humayun_ahmed-1.jpg",
+        "title": "বহুব্রীহি",
+        "oldPrice": 260,
+        "newPrice": 234,
+        "currency": "BDT",
+        "rating": 4.6,
+        "stock": 32,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "নিশীথিনী",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684158",
+        "edition": "১ম প্রকাশ ১৯৮৫, ১৩তম মুদ্রণ ২০২১",
+        "numberOfPages": 108,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "দেবীর সিক্যুয়েল। মিসির আলি এবার সম্মোহন ও অচেতন মনের রহস্য ভেদ করতে নামেন। নিশীথিনী নামের এক নারীর অতীতের গল্প উন্মোচিত হয়।"
+      },
+      "salesInfo": {
+        "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1278476973i/8547493.jpg",
+        "title": "নিশীথিনী",
+        "oldPrice": 240,
+        "newPrice": 216,
+        "currency": "BDT",
+        "rating": 4.5,
+        "stock": 26,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "নিষাদ",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684166",
+        "edition": "১ম প্রকাশ ১৯৮৮, ১০তম মুদ্রণ ২০২০",
+        "numberOfPages": 124,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "মিসির আলি সিরিজের আরেক জনপ্রিয় পর্ব। এখানে উঠে আসে আত্মার অমরত্ব ও পুনর্জন্মের রহস্য। নিষাদ নামের এক প্রতিভাবান শিল্পীকে কেন্দ্র করে গল্প আবর্তিত।"
+      },
+      "salesInfo": {
+        "image": "https://bengaliebook.com/wp-content/uploads/2022/02/%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BE%E0%A6%A6-724x1024.jpg",
+        "title": "নিষাদ",
+        "oldPrice": 260,
+        "newPrice": 234,
+        "currency": "BDT",
+        "rating": 4.4,
+        "stock": 19,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "অন্যভুবন",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684174",
+        "edition": "১ম প্রকাশ ১৯৯২, ৮তম মুদ্রণ ২০১৯",
+        "numberOfPages": 112,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "সমান্তরাল জগতের গল্প। বৈজ্ঞানিক কল্পকাহিনির ছোঁয়া আছে এই বইটিতে। মিসির আলি একটি বাড়ির গোপন ঘরে প্রবেশ করে দেখেন আরেক বিশ্বের অস্তিত্ব।"
+      },
+      "salesInfo": {
+        "image": "https://baatighar.com/web/image/product.product/42141/image_1024",
+        "title": "অন্যভুবন",
+        "oldPrice": 230,
+        "newPrice": 207,
+        "currency": "BDT",
+        "rating": 4.3,
+        "stock": 15,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "বৃহন্নলা",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684182",
+        "edition": "১ম প্রকাশ ১৯৯৬, ৭তম মুদ্রণ ২০১৮",
+        "numberOfPages": 108,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "লিঙ্গ পরিবর্তনের রহস্য নিয়ে লেখা মিসির আলির কাহিনি। অস্ত্রোপচার ও পরিচয় নিয়ে দার্শনিক প্রশ্ন তুলে ধরে বইটি।"
+      },
+      "salesInfo": {
+        "image": "https://upload.wikimedia.org/wikipedia/bn/4/40/%E0%A6%AC%E0%A7%83%E0%A6%B9%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%B2%E0%A6%BE_%E0%A6%AC%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%A6.jpeg",
+        "title": "বৃহন্নলা",
+        "oldPrice": 250,
+        "newPrice": 225,
+        "currency": "BDT",
+        "rating": 4.5,
+        "stock": 21,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "আমিই মিসির আলি",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684190",
+        "edition": "১ম প্রকাশ ২০০৫, ৫তম মুদ্রণ ২০২০",
+        "numberOfPages": 130,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "মিসির আলি নিজের অস্তিত্ব নিয়েই সন্দেহে পড়ে যান। কে তিনি? বাস্তব না কল্পনা? এই প্রশ্ন নিয়ে ঘুরপাক খায় কাহিনি। আত্মপরিচয়ের সন্ধানে এক অসাধারণ যাত্রা।"
+      },
+      "salesInfo": {
+        "image": "https://upload.wikimedia.org/wikipedia/bn/7/7a/%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%87_%E0%A6%AE%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B0_%E0%A6%86%E0%A6%B2%E0%A6%BF_%E0%A6%89%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%A6.png",
+        "title": "আমিই মিসির আলি",
+        "oldPrice": 290,
+        "newPrice": 261,
+        "currency": "BDT",
+        "rating": 4.6,
+        "stock": 14,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "দেয়াল",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684204",
+        "edition": "১ম প্রকাশ ১৯৭৬, ১৫তম মুদ্রণ ২০২১",
+        "numberOfPages": 98,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "রাজনীতি ও ক্ষমতার পটভূমিতে লেখা উপন্যাস। এক তরুণের আদর্শ থেকে বাস্তববাদে ফিরে আসার কাহিনি। দেয়াল যেন ভাঙা যায় না এমন এক প্রাচীর।"
+      },
+      "salesInfo": {
+        "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1362031027i/17412290.jpg",
+        "title": "দেয়াল",
+        "oldPrice": 210,
+        "newPrice": 189,
+        "currency": "BDT",
+        "rating": 4.5,
+        "stock": 33,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "পূফি",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684212",
+        "edition": "১ম প্রকাশ ২০০৪, ৬তম মুদ্রণ ২০২০",
+        "numberOfPages": 96,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "মিসির আলির জীবনে আসে এক অদ্ভুত কুকুর পূফি। এই কুকুরটির আচরণে রহস্য রয়েছে। থ্রিলারের পাশাপাশি প্রাণীজগতের প্রতি টান ধরা আছে।"
+      },
+      "salesInfo": {
+        "image": "https://bengaliebook.com/wp-content/uploads/2022/02/%E0%A6%AA%E0%A7%81%E0%A6%AB%E0%A6%BF-724x1024.jpg",
+        "title": "পূফি",
+        "oldPrice": 200,
+        "newPrice": 180,
+        "currency": "BDT",
+        "rating": 4.3,
+        "stock": 24,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "আজ হিমুর বিয়ে",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684220",
+        "edition": "১ম প্রকাশ ২০০৭, ৮তম মুদ্রণ ২০২২",
+        "numberOfPages": 88,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "হিমু যখন বিয়ে করতে চায়, তখন শুরু হয় হাস্যকর ও বিশৃঙ্খল ঘটনার স্রোত। হিমুর বিয়ে মানেই যেন এক মহা উৎসব ও বিপর্যয়। হালকা মেজাজের বই।"
+      },
+      "salesInfo": {
+        "image": "https://bengaliebook.com/wp-content/uploads/2022/02/%E0%A6%86%E0%A6%9C-%E0%A6%B9%E0%A6%BF%E0%A6%AE%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-724x1024.jpg",
+        "title": "আজ হিমুর বিয়ে",
+        "oldPrice": 190,
+        "newPrice": 171,
+        "currency": "BDT",
+        "rating": 4.2,
+        "stock": 42,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "হিমুর হাতে কয়েকটি নীলপদ্ম",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684239",
+        "edition": "১ম প্রকাশ ২০০১, ১০তম মুদ্রণ ২০২১",
+        "numberOfPages": 104,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "হিমু রাস্তায় নীলপদ্ম নিয়ে হাঁটে। এই অদ্ভুত দৃশ্য দেখে মানুষ নানান প্রশ্ন করে। হিমুর সরলতায় বুঁদ হয়ে যায় সবাই।"
+      },
+      "salesInfo": {
+        "image": "https://upload.wikimedia.org/wikipedia/bn/thumb/c/c2/%E0%A6%B9%E0%A6%BF%E0%A6%AE%E0%A7%81%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A7%87_%E0%A6%95%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF_%E0%A6%A8%E0%A7%80%E0%A6%B2%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE_-_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%A6.jpg/250px-%E0%A6%B9%E0%A6%BF%E0%A6%AE%E0%A7%81%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A7%87_%E0%A6%95%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF_%E0%A6%A8%E0%A7%80%E0%A6%B2%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE_-_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%A6.jpg",
+        "title": "হিমুর হাতে কয়েকটি নীলপদ্ম",
+        "oldPrice": 220,
+        "newPrice": 198,
+        "currency": "BDT",
+        "rating": 4.5,
+        "stock": 28,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "হিমুর দ্বিতীয় প্রহর",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684247",
+        "edition": "১ম প্রকাশ ২০০৩, ৭তম মুদ্রণ ২০২০",
+        "numberOfPages": 96,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "হিমু যখন নিজের অস্তিত্ব নিয়ে প্রশ্ন তোলে। জীবনের দ্বিতীয় প্রহরে পা দিয়ে সে নতুন এক পথের সন্ধান করে। আত্মোপলব্ধির গল্প।"
+      },
+      "salesInfo": {
+        "image": "https://bengaliebook.com/wp-content/uploads/2022/02/%E0%A6%B9%E0%A6%BF%E0%A6%AE%E0%A7%81%E0%A6%B0-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%B0-768x1086.jpg",
+        "title": "হিমুর দ্বিতীয় প্রহর",
+        "oldPrice": 200,
+        "newPrice": 180,
+        "currency": "BDT",
+        "rating": 4.4,
+        "stock": 31,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "তন্দ্রাবিলাস",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684255",
+        "edition": "১ম প্রকাশ ২০০০, ৯তম মুদ্রণ ২০২১",
+        "numberOfPages": 112,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "ঘুম ও জাগরণের সীমানায় কী ঘটে? তন্দ্রাবিলাসে মিসির আলি ঘুমের মধ্যে লুকিয়ে থাকা রহস্য উন্মোচন করতে গিয়ে পড়েন বিপাকে।"
+      },
+      "salesInfo": {
+        "image": "https://upload.wikimedia.org/wikipedia/bn/f/f4/%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%B8_%E0%A6%AC%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%A6.jpg",
+        "title": "তন্দ্রাবিলাস",
+        "oldPrice": 240,
+        "newPrice": 216,
+        "currency": "BDT",
+        "rating": 4.3,
+        "stock": 17,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "বৃষ্টি বিলাস",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684263",
+        "edition": "১ম প্রকাশ ১৯৯৯, ১১তম মুদ্রণ ২০২২",
+        "numberOfPages": 100,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "বৃষ্টি আর প্রেমের গল্প। বৃষ্টির ফোঁটার মতো ঝরঝরে, সাবলীল বর্ণনায় ভরা এক রোমান্টিক উপন্যাস। প্রকৃতির সাথে মনের মিলনের কাহিনি।"
+      },
+      "salesInfo": {
+        "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1711831307i/3923073.jpg",
+        "title": "বৃষ্টি বিলাস",
+        "oldPrice": 220,
+        "newPrice": 198,
+        "currency": "BDT",
+        "rating": 4.4,
+        "stock": 29,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "হিমু রিমান্ডে",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684271",
+        "edition": "১ম প্রকাশ ২০০৮, ৬তম মুদ্রণ ২০২১",
+        "numberOfPages": 92,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "হিমু জেলে যায়। রিমান্ডে তাকে প্রশ্ন করা হচ্ছে। কিন্তু হিমুর উত্তর পুলিশের ধাঁধায় ফেলে দেয়। হিমুর মুখে অদ্ভুত সব বাণী।"
+      },
+      "salesInfo": {
+        "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1224697389i/3922939.jpg",
+        "title": "হিমু রিমান্ডে",
+        "oldPrice": 190,
+        "newPrice": 171,
+        "currency": "BDT",
+        "rating": 4.1,
+        "stock": 37,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "হলুদ হিমু কালো র্যাব",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "984868428X",
+        "edition": "১ম প্রকাশ ২০০৬, ৫তম মুদ্রণ ২০২০",
+        "numberOfPages": 108,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "হিমুর সাথে র্যাবের দ্বন্দ্ব। কে এই রহস্যময় হিমু? র্যাব তাকে ধরতে চায়, কিন্তু হিমু নিজের নিয়মেই চলে। থ্রিলার ও কমেডির মিশেল।"
+      },
+      "salesInfo": {
+        "image": "https://www.prothoma.com/web/image/product.template/64963/image_1024?unique=1e84af0",
+        "title": "হলুদ হিমু কালো র্যাব",
+        "oldPrice": 230,
+        "newPrice": 207,
+        "currency": "BDT",
+        "rating": 4.2,
+        "stock": 23,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "দরজার ওপাশে",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684298",
+        "edition": "১ম প্রকাশ ১৯৯৩, ১২তম মুদ্রণ ২০২২",
+        "numberOfPages": 104,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "হিমু সিরিজের দ্বিতীয় বই। দরজার ওপাশে কী আছে? সেই রহস্য উদঘাটনে নামে হিমু। বাস্তবের বাইরে যাওয়ার সাহসিক কাহিনি।"
+      },
+      "salesInfo": {
+        "image": "https://bengaliebook.com/wp-content/uploads/2022/02/%E0%A6%A6%E0%A6%B0%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%BE%E0%A6%B6%E0%A7%87-768x1086.jpg",
+        "title": "দরজার ওপাশে",
+        "oldPrice": 220,
+        "newPrice": 198,
+        "currency": "BDT",
+        "rating": 4.4,
+        "stock": 34,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "এবং হিমু",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684301",
+        "edition": "১ম প্রকাশ ১৯৯৫, ৯তম মুদ্রণ ২০২১",
+        "numberOfPages": 100,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "হিমুর নানান ফিলোসফিক্যাল কথার সমাহার। জীবন, মৃত্যু, ভালোবাসা নিয়ে তার ভাবনা। হিমুর চোখে পৃথিবী আর সবার চোখে যেন একটু অন্যরকম।"
+      },
+      "salesInfo": {
+        "image": "https://upload.wikimedia.org/wikipedia/bn/9/90/%E0%A6%8F%E0%A6%AC%E0%A6%82_%E0%A6%B9%E0%A6%BF%E0%A6%AE%E0%A7%81..._%E0%A6%89%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%A6.jpg",
+        "title": "এবং হিমু",
+        "oldPrice": 210,
+        "newPrice": 189,
+        "currency": "BDT",
+        "rating": 4.3,
+        "stock": 26,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "পারাপার",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "984868431X",
+        "edition": "১ম প্রকাশ ১৯৯৪, ১০তম মুদ্রণ ২০২০",
+        "numberOfPages": 96,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "হিমুর এক পার হওয়ার গল্প। এক স্থান থেকে আরেক স্থানে, এক অবস্থা থেকে আরেক অবস্থায়। যাত্রা ও পরিবর্তনের কাহিনি।"
+      },
+      "salesInfo": {
+        "image": "https://upload.wikimedia.org/wikipedia/bn/1/10/%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%B0_%E0%A6%89%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%A6.jpeg",
+        "title": "পারাপার",
+        "oldPrice": 200,
+        "newPrice": 180,
+        "currency": "BDT",
+        "rating": 4.3,
+        "stock": 30,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "সে আসে ধীরে",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684360",
+        "edition": "১ম প্রকাশ ২০০০, ৮তম মুদ্রণ ২০২১",
+        "numberOfPages": 98,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "হিমু যখন প্রেমে পড়ে। কিন্তু হিমুর প্রেম মানেও অদ্ভুত। সে আসে ধীরে, যেমন ধীরে আসে শীতের সকাল। অদ্ভুত প্রেমের গল্প।"
+      },
+      "salesInfo": {
+        "image": "https://rokbucket.rokomari.io/ProductNew20190903/260X372/49dfafad0_959.jpg",
+        "title": "সে আসে ধীরে",
+        "oldPrice": 210,
+        "newPrice": 189,
+        "currency": "BDT",
+        "rating": 4.3,
+        "stock": 33,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "চলে যায় বসন্তের দিন",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684379",
+        "edition": "১ম প্রকাশ ২০০২, ৭তম মুদ্রণ ২০২০",
+        "numberOfPages": 96,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "সময়ের সাথে হারিয়ে যাওয়া দিনগুলোর স্মৃতি। হিমু যখন ফিরে তাকায় অতীতে, তখন সে দেখে বসন্তের মতো মিষ্টি সব দিন চলে গেছে। বিষাদময় এক কাহিনি।"
+      },
+      "salesInfo": {
+        "image": "https://bengaliebook.com/wp-content/uploads/2022/02/%E0%A6%9A%E0%A6%B2%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8-724x1024.jpg",
+        "title": "চলে যায় বসন্তের দিন",
+        "oldPrice": 200,
+        "newPrice": 180,
+        "currency": "BDT",
+        "rating": 4.3,
+        "stock": 29,
+        "isInStock": true
+      }
+    },
+    {
+      "specification": {
+        "title": "আমি এবং আমরা",
+        "author": "হুমায়ূন আহমেদ",
+        "publisher": "অন্যপ্রকাশ",
+        "isbn": "9848684409",
+        "edition": "১ম প্রকাশ ২০০৩, ৫তম মুদ্রণ ২০২০",
+        "numberOfPages": 112,
+        "country": "বাংলাদেশ",
+        "language": "বাংলা",
+        "summary": "মিসির আলির ছোটগল্পের সংকলন। একেকটি গল্প একেক রকম মানসিক জটিলতা ও রহস্য নিয়ে গড়া। 'ভয়' গল্পটির জন্য বিশেষভাবে পরিচিত।"
+      },
+      "salesInfo": {
+        "image": "https://bengaliebook.com/wp-content/uploads/2022/02/%E0%A6%86%E0%A6%AE%E0%A6%BF-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%86%E0%A6%AE%E0%A6%B0%E0%A6%BE-724x1024.jpg",
+        "title": "আমি এবং আমরা",
+        "oldPrice": 240,
+        "newPrice": 216,
+        "currency": "BDT",
+        "rating": 4.6,
+        "stock": 18,
+        "isInStock": true
+      }
+    }
+  ]
+}

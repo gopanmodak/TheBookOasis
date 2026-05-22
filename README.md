@@ -297,6 +297,11 @@ Features:
 * Wishlist counter badge
 * Mobile menu
 * Responsive navigation links
+* Smooth transitions
+
+---Firebase Authentication
+  
+  
 
 ---
 
@@ -323,7 +328,6 @@ Features:
 
 # 🚀 Future Improvements
 
-* 🔐 Firebase Authentication
 * ☁️ Backend Integration (MongoDB + Express)
 * 📖 Reading Progress Tracker
 * ⭐ User Ratings & Reviews
@@ -391,9 +395,9 @@ Frontend MERN Developer & UI/UX Enthusiast.
 
 ### 🌐 Connect With Me
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
+* GitHub: [https://github.com/yourusername](https://github.com/gopanmodak)
 * LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)
+* Portfolio: [https://your-portfolio-link.com](https://gopanmodak.vercel.app/)
 
 ---
 
