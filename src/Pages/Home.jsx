@@ -10,8 +10,9 @@ import { PulseLoader } from "react-spinners";
 const Home = () => {
 
   const {googleBook,loading} = useContext(AuthContext);
+  console.log(googleBook)
 
-  if(!loading){
+  if(loading){
     return <div className="flex justify-center items-center h-screen">
 
           <span> <PulseLoader  color="#36d7b7" /> </span>
@@ -55,7 +56,7 @@ const Home = () => {
             initial={{opacity:0 ,y:-50}}
             animate={{opacity:1 ,y:0}}
             transition={{duration:0.5}}
-            className="text-3xl font-bold text-center my-10">Browse By Author</motion.h1>
+            className="text-3xl font-bold text-center my-10 text-gray-700">Browse By Author</motion.h1>
 
 
             <div className="grid grid-cols-1 md:grid-cols-4 gap-10 max-w-5xl mx-auto text-center font-semibold p-5">
@@ -73,10 +74,10 @@ const Home = () => {
 
 
          {/*  Google Books */}
-
-
-         <div>
-          {googleBook?.map((books)=> <HomeBooks key={books.id} book={books}/>)}
+              
+         <h2 className="text-3xl font-bold text-center my-10 text-gray-700">Tranding Books</h2>
+         <div className="grid grid-cols-1 md:grid-cols-3 gap-10 max-w-5xl mx-auto text-center font-semibold p-5">
+          {googleBook?.map((books)=> <HomeBooks key={books.id} books={books}/>)}
          </div>
 
            {/* NewsLetter*/}

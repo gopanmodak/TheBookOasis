@@ -11,6 +11,7 @@ import SatyajitRay from "../Pages/AuthorBook/SatyajitRay";
 import RabindranathTagore from "../Pages/AuthorBook/RabindranathTagore";
 import KaziNazrulIslam from "../Pages/AuthorBook/KaziNazrulIslam";
 import HumayunAhmed from "../Pages/AuthorBook/HumayunAhmed";
+import HomeBooksDetails from "../Pages/BookDetails/HomeBooksDetails";
 
 export const routes = createBrowserRouter([
    {
@@ -61,6 +62,10 @@ export const routes = createBrowserRouter([
       {
          path: "humayun-ahmed",
          element: <HumayunAhmed />
+      },{
+
+         path: "tranding/:id",
+         element: <HomeBooksDetails />
       }
 
 

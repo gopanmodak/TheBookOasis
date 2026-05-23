@@ -7,14 +7,15 @@ const AuthProvider = ({children}) => {
 
 
   const [googleBook, setGoogleBook] = useState([]);
-  const [googleBookLoading, setGoogleBookLoading] = useState(false);
+  const [googleBookLoading, setGoogleBookLoading] = useState(true);
 
   useEffect(()=>{
-    fetch("https://www.googleapis.com/books/v1/volumes?q=quilting&maxResults=40&key=AIzaSyAqvol__ISlMKD1cKIVH7MGWYBLDuYJtX4")
+    fetch("https://api.nytimes.com/svc/books/v3/lists/overview.json?api-key=wxTVVSzfTLVxhXvCct9fmG5Qoe0KE6ybCPCa6RubpkJqhpYU")
     .then(response => response.json())
     .then(data =>{
-      setGoogleBook(data.items)
-      setGoogleBookLoading(true)
+      setGoogleBook(data.results.lists[0].books)
+      setGoogleBookLoading(false)
+      console.log(data)
     })
   },[])
 
